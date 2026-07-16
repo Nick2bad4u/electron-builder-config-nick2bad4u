@@ -1,0 +1,12 @@
+{
+    "name": "electron-builder-config-smoke-fixture",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Minimal consumer used by the real electron-builder smoke test.",
+    "author": "Nick2bad4u",
+    "type": "module",
+    "main": "dist/index.js",
+    "devDependencies": {
+        "electron": "41.5.0"
+    }
+}
