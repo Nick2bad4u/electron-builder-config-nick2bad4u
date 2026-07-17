@@ -1,7 +1,7 @@
 {
     "$schema": "https://www.schemastore.org/package.json",
     "name": "electron-builder-config-nick2bad4u",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "private": false,
     "description": "Typed electron-builder factories for portable, recommended, extended, and signed desktop releases.",
     "keywords": [
